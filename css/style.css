@@ -144,16 +144,15 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 #video0{
-
-  padding-left:110px;
+padding-left:110px;
 }
 /*Адаптция*/
 
 
 @media (min-width:0px) and (max-width:1880px) {
-.videoo{
-display:none;  
+.bottom3{
+display: none;
 }
-    }
+}
 
 

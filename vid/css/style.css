@@ -31,19 +31,17 @@ background-size: cover;
 padding-bottom:20px;
 padding-top:50px;
 }
-.dopinf{
-font-size:30px;
-width: 600px;
+.vodeo1{
+padding-bottom:20px;
+padding-top:50px;
 position: absolute;
-text-align: center;
-padding-top: 90px;
-
+padding-left: 60px;
 }
+
 @media (min-width:0px) and (max-width:1880px) {
-.dopinf{
+.vodeo1{
 display:none;  
 }
-
 }
 
 

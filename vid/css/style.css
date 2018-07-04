@@ -18,7 +18,15 @@ font-size:75px;
 padding-top: 82px;
 }
 .content{
- height: 2370px;
+ height: 1570px;
+}
+iframe{
+
+padding-top:60px;
+
+}
+#video0{
+padding-left:110px;
 }
 .bottom{
 background-image: url(../imge/fon20.jpg);
@@ -42,7 +50,13 @@ padding-left: 60px;
 .vodeo1{
 display:none;  
 }
+.videoo{
+	display: none;
 }
+
+}
+}
+
 
 
 

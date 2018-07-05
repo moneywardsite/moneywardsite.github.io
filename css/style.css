@@ -25,9 +25,7 @@ height: 2300px;
 margin: 0 auto;
 }
 iframe{
-
 padding-top:60px;
-
 }
 #dopinf1{
 color: black;
@@ -57,7 +55,6 @@ color: black;
 display: block;
 margin: 0 auto;
 padding-top: 60px;
-
 }
 #img2{
 padding-left: 80px;
@@ -156,7 +153,7 @@ padding-left:110px;
 display:none;  
 }
 .bottom3{
-	display: none;
+display: none;
 }
 }
 

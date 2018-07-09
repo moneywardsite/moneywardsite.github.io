@@ -1,0 +1,21 @@
+#img{
+display: block;
+margin: 0 auto;
+padding-bottom: 35px;
+padding-top: 15px;
+}
+#content{
+margin:0 auto;
+width: 900px;
+height: 700px;
+}
+p{
+text-align:center;
+font-size:30px;
+}
+h2{
+font-size:30px;
+}
+#last{
+padding-bottom:50px;
+}

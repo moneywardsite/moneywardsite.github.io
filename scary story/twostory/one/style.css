@@ -1,3 +1,7 @@
+*{
+margin: 0;
+padding: 0;
+}
 #img{
 display: block;
 margin: 0 auto;
@@ -23,19 +27,21 @@ a img{
 padding-bottom:30px;
 }
 .menu{
-	display: block;
+display: block;
 padding-left: 30px;
 padding-right: 30px;
 border: solid 2px black;
- display: inline-block;
-   border-radius: 80px;
-	font-size:24px;
-
+display: inline-block;
+border-radius: 80px;
+font-size:24px;
 }
 div a{
-
-	text-decoration:none;
+text-decoration:none;
 }
 .menu a strong{
-	color: black;
+color: black;
+}
+.menu12{
+padding-left:8px;
+padding-top:8px;
 }

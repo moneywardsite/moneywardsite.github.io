@@ -16,6 +16,7 @@ display: block;
 margin: 0 auto;
 padding-bottom: 35px;
 padding-top: 15px;
+
 }
 #img2{
 position: absolute;
@@ -54,8 +55,25 @@ padding-left: 20px;
 p{
 font-size:30px;
 color: black;
-padding-left: 20px;
+
 }
 h2 a{
 color: black;
+}
+.menu{
+	display: block;
+padding-left: 30px;
+padding-right: 30px;
+border: solid 2px black;
+ display: inline-block;
+   border-radius: 80px;
+	font-size:24px;
+
+}
+div a{
+
+	text-decoration:none;
+}
+.menu a strong{
+	color: black;
 }

@@ -22,3 +22,20 @@ padding-bottom:50px;
 a img{
 padding-bottom:30px;
 }
+.menu{
+	display: block;
+padding-left: 30px;
+padding-right: 30px;
+border: solid 2px black;
+ display: inline-block;
+   border-radius: 80px;
+	font-size:24px;
+
+}
+div a{
+
+	text-decoration:none;
+}
+.menu a strong{
+	color: black;
+}
